@@ -6,13 +6,13 @@ Borrow 50/100 cryptos.
 
  
 
-1.  Introduction.
+## 1. Introduction.
 
 In this project we shall build the smart contract that could help users to borrow pre selected on chain crypto coins.
 
  
 
-2. How does it work?
+## 2. How does it work?
 
 Users can select the crypto currency that they would like to borrow.
 
@@ -30,9 +30,7 @@ Users are charged an interest rate of 10% per year of the amount borrowed. The i
 
  
 
-
-
-3.  Pre selected crypto coins pool.
+## 3. Pre selected crypto coins pool.
 
 The initial default list will have few pre selected crypto coins available for loans.
 
@@ -48,7 +46,7 @@ The minimum number of request for crypto coins to be removed from the loan list 
 
  
 
- 4. Supply and demand.
+## 4. Supply and demand.
 
 4.1 To do once the campaine is over:
 
@@ -58,11 +56,16 @@ They could earn an interest on their assets.
 
 
 
-Links:
+## 5. Links:
+
 https://github.com/Brian2023m/cryptoloan.git
+
 https://a.co/d/0S1xHz7
+
 https://a.co/d/iivzWnm
- 
+
+## 6. Enjoy.
+
 
  
 
