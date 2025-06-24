@@ -48,8 +48,20 @@ The minimum number of request for crypto coins to be removed from the loan list 
 
  
 
- 
+ 4. Supply and demand.
 
+4.1 To do once the campaine is over:
+
+To stimulate supply and demand, users have a choice to invest their assets on the crytpo loan pool.
+
+They could earn an interest on their assets.
+
+
+
+Links:
+https://github.com/Brian2023m/cryptoloan.git
+https://a.co/d/0S1xHz7
+https://a.co/d/iivzWnm
  
 
  
