@@ -42,10 +42,14 @@ Top 10 crypto coins can not be removed for the crypto loan list.
 Each cryptocurrency in the crypto loan system shall be ranked according to the number of users who have borrowed it.
 The top ten highest ranking cryptocurrencies shall have indemnity from being removed by the users.
 
-4.2 To do once the campaine is over:
+4.2 Develop an AI Model capable of predicting crypto market price movements.
+
+4.3 To do once the campaine is over:
 
 To stimulate supply and demand, users have a choice to invest their assets on the crypto loan pool.
 They could earn an interest on their assets.
+
+ 
 
 
 ## 5. Links:
